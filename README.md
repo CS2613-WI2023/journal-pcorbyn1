@@ -1,11 +1,3 @@
-# Introduction to Python
-
-# Syntax & Semantics 
-
-# Supported Paradigms
-
-# Data Structures and Libraries
-
-# Under-the-hood
+# Go to the Wiki Page for CS2613 Journals!
 
 
